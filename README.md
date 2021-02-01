@@ -20,3 +20,7 @@ But this is mainly why it is a slower process for inputting data and why there a
 
 I use this sheet as a guide, I will firsty go through and test different things within the sheet, like filtering out different combination. Then I will check my analysis page for basic things like averages, mins, maxs and std dev. I also do this with the linear reg model except I will just use the slope equation. Once I have either the equation or averages I need I will go through a large repository of data that I have collected in another excel file and backtest my new 'solution' to see if it works or not, then record my results. 
 
+
+
+
+IMPORTANT NOTE ABOUT THE KMEANS Jupyter Notebook:  This notebook was made with the help of following a sigma coding tutorial, linked here https://www.youtube.com/watch?v=dhV8UWI1sjc&ab_channel=SigmaCoding . Please note that I adapted what was taught in the tutorial to fit my own data.
