@@ -1,6 +1,8 @@
 This is a basic GUI I use daily for my trading! 
 
-In order to use it just click on the "Main.exe" application 
+If you would like to use this first download the GUI EXECUTABLE folder.
+
+Then to use it just click on the "Main.exe" application 
  
 It will open up a cmd, you don't need to do anything, it is just loading. 
 
