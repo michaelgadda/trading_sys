@@ -1,6 +1,6 @@
 This is a version of a basic GUI I use daily for my trading! However I typically use a version I have in excel for ease of data transfer. 
 
-I created this mainly so that I can display a few different processes I use in the morning in a more maneagable and understandable way! 
+I created this mainly so that I can display a few different processes I use in the morning in a more manageable and understandable way! 
 
 If you would like to use this first download the GUI EXECUTABLE folder.
 
