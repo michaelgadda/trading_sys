@@ -1,3 +1,5 @@
+In the excel file there are multiple sheets, the Range Bound Play 1 (V2)-FLAT sheet contains cleans and refined data for this setup. You can feel free to ignore the (V1) of this as it is just the unfiltered and unrefined data for this setup.
+
 In the excel file you will probably notice that quite a few values are left blank. If you sort by the W/L column all values that have UT and L purpesfully don't have data filled out. The ones that have W that are not filled out will be filled out soon. The UT and L valued columns will eventually have a few columns filled out for further analysis on losses.
 
 W : Wins L : Losses UT: Untradeable
@@ -13,7 +15,7 @@ The reason that the data is not complete is because it is always changing. In an
 
 Along with that, due to the speceficity of the data that is in the file it has been input manually by me. I am working on finding an API that will allow me more freedom in terms of accessing data at very specefic points and very specefic times. This is my next most important task, especially as my trading strategies change even more. 
 
-But this is mianly why it is a slower process for inputting data and why there are lots of blank cells. 
+But this is mainly why it is a slower process for inputting data and why there are lots of blank cells. 
 
 
 I use this sheet as a guide, I will firsty go through and test different things within the sheet, like filtering out different combination. Then I will check my analysis page for basic things like averages, mins, maxs and std dev. I also do this with the linear reg model except I will just use the slope equation. Once I have either the equation or averages I need I will go through a large repository of data that I have collected in another excel file and backtest my new 'solution' to see if it works or not, then record my results. 
